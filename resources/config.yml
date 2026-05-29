@@ -1,0 +1,31 @@
+# General
+rename-cost-levels: 30
+form-cancelled: "&cYou closed the form."
+rename-cancelled: "&cRename cancelled."
+rename-success: "&aSuccessfully renamed &e{item} &ato &r{name}"
+not-enough-levels: "&cYou need &e{cost} XP levels &cto rename this item."
+item-missing: "&cThat item no longer exists in your inventory."
+no-items: "&cYou have no items to rename."
+
+# Form Titles
+select-form-title: "&8RenameUI"
+rename-form-title: "&8Rename Item"
+confirm-form-title: "&8Confirm Rename"
+
+# Form Messages
+select-form-message: "&7Select an item you want to rename."
+select-item-dropdown: "&eChoose Item"
+
+rename-form-message: "&7Type the new name for &e{item}"
+rename-input: "&eEnter new item name"
+
+confirm-message: "&7It will cost &e{cost} XP Levels &7to rename &e{item} &7to &r{name}&7.\n\n&aClick YES to confirm."
+
+confirm-message-free: "&aYou can rename items for FREE!\n\n&7Rename &e{item} &7to &r{name}"
+
+# Buttons
+confirm-button: "&aYES"
+cancel-button: "&cNO"
+
+# Extra
+close-button-note: "&7Close the form anytime to cancel."
